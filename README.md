@@ -2,7 +2,7 @@
 
 <table style="border: none;">
   <tr>
-    <th><h3>Funcionario en una remota localidad.</h3></th>
+    <th><h5>Funcionario en una remota localidad.</h5></th>
     <th><img src="https://avatars.githubusercontent.com/u/187865778?v=4" width="150"></th>
   </tr>
 </table>
