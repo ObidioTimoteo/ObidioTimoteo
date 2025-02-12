@@ -1,17 +1,12 @@
 ## Hola. Mi nombre es Carlos Salvador. 👋
 
-<table>
+<table border="0">
   <tr>
     <th>> ### Funcionario en una remota localidad.</th>
     <th><img src="https://avatars.githubusercontent.com/u/187865778?v=4" width="150"></th>
   </tr>
 </table>
 
-
-<img src="https://avatars.githubusercontent.com/u/187865778?v=4" width="150">
-
->
-> ### Funcionario en una remota localidad. 
 <!--
 **ObidioTimoteo/ObidioTimoteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
