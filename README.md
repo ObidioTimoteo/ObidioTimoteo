@@ -1,6 +1,6 @@
 ## Hola. Mi nombre es Carlos Salvador. 👋
 
-<table style="border-collapse: collapse; width: 100%; border: none;">
+<table style="border: none;">
   <tr>
     <th>> ### Funcionario en una remota localidad.</th>
     <th><img src="https://avatars.githubusercontent.com/u/187865778?v=4" width="150"></th>
